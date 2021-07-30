@@ -1,3 +1,3 @@
-import * as FunctionLib from './lib/function';
+import runDebug from "../para/debug";
 
-FunctionLib.testFunction();
+console.log(runDebug);

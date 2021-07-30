@@ -1,3 +1,1 @@
-import * as FunctionLib from './lib/function';
-
-FunctionLib.testFunction();
+export * from './lib/function';

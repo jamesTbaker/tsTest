@@ -14,7 +14,8 @@
 			"program": "${workspaceFolder}/para/debug.ts",
 			"outFiles": [
 				"${workspaceFolder}/**/*.js"
-			]
+			],
+			"preLaunchTask": "tsc: build - tsconfig.json"
 		}
 	]
 }

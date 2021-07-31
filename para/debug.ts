@@ -1,3 +1,3 @@
-import * as FunctionLib from '../src/index';
+import FunctionLib from '../src/lib/function';
 
 FunctionLib.testFunction();

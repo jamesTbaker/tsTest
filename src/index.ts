@@ -1,1 +1,1 @@
-export * from './lib/function';
+export { testFunction } from './lib/function';

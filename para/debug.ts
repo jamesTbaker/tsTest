@@ -1,3 +1,3 @@
-import FunctionLib from '../src/lib/function';
+import { testFunction } from '../src/lib/function';
 
-FunctionLib.testFunction();
+testFunction();
